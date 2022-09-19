@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spotdot-landing-page/static/css/main.471caf42.css",
+    "main.js": "/spotdot-landing-page/static/js/main.f5c5432e.js",
+    "static/media/sd_console_scr.svg": "/spotdot-landing-page/static/media/sd_console_scr.623e3fb3e02696c2b015fcbf9b223ea0.svg",
+    "index.html": "/spotdot-landing-page/index.html",
+    "main.471caf42.css.map": "/spotdot-landing-page/static/css/main.471caf42.css.map",
+    "main.f5c5432e.js.map": "/spotdot-landing-page/static/js/main.f5c5432e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471caf42.css",
+    "static/js/main.f5c5432e.js"
+  ]
+}
