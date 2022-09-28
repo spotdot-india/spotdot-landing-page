@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.471caf42.css",
-    "main.js": "/static/js/main.8e9d42c1.js",
-    "index.html": "/index.html",
-    "main.471caf42.css.map": "/static/css/main.471caf42.css.map",
-    "main.8e9d42c1.js.map": "/static/js/main.8e9d42c1.js.map"
+    "main.css": "/spotdot-india/spotdot-landing-page/static/css/main.471caf42.css",
+    "main.js": "/spotdot-india/spotdot-landing-page/static/js/main.4a0ee6d7.js",
+    "index.html": "/spotdot-india/spotdot-landing-page/index.html",
+    "main.471caf42.css.map": "/spotdot-india/spotdot-landing-page/static/css/main.471caf42.css.map",
+    "main.4a0ee6d7.js.map": "/spotdot-india/spotdot-landing-page/static/js/main.4a0ee6d7.js.map"
   },
   "entrypoints": [
     "static/css/main.471caf42.css",
-    "static/js/main.8e9d42c1.js"
+    "static/js/main.4a0ee6d7.js"
   ]
 }
