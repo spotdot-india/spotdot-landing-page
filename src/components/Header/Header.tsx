@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
-import Logo from '../../Assets/sd_logo_small.png';
-import SpotoneLogo from '../../Assets/sd_one_logo_small.png';
+import Logo from '../../assets/sd_logo_small.png';
+import SpotoneLogo from '../../assets/sd_one_logo_small.png';
 
 import Styled from './Header.styled';
 
