@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spotdot-landing-page/static/css/main.471caf42.css",
-    "main.js": "/spotdot-landing-page/static/js/main.df643290.js",
+    "main.css": "/spotdot-landing-page/static/css/main.68f2a55d.css",
+    "main.js": "/spotdot-landing-page/static/js/main.c89f859c.js",
     "index.html": "/spotdot-landing-page/index.html",
-    "main.471caf42.css.map": "/spotdot-landing-page/static/css/main.471caf42.css.map",
-    "main.df643290.js.map": "/spotdot-landing-page/static/js/main.df643290.js.map"
+    "main.68f2a55d.css.map": "/spotdot-landing-page/static/css/main.68f2a55d.css.map",
+    "main.c89f859c.js.map": "/spotdot-landing-page/static/js/main.c89f859c.js.map"
   },
   "entrypoints": [
-    "static/css/main.471caf42.css",
-    "static/js/main.df643290.js"
+    "static/css/main.68f2a55d.css",
+    "static/js/main.c89f859c.js"
   ]
 }

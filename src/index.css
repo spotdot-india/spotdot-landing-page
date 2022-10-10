@@ -1,15 +1,55 @@
-/* browser resets */
-* {
-	padding: 0px;
-	margin: 0px;
+/* BROWSER RESETS */
+*,
+*::before,
+*::after {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    text-rendering: geometricPrecision;
 }
 
 html {
-	font-size: 16px;
+    font-size: 16px;
 }
 
 html,
 body {
-	/* font-family: 'DM Sans', sans-serif; */
-	font-family: 'Manrope', sans-serif;
+    /* font-family: 'DM Sans', sans-serif; */
+    font-family: 'Manrope', sans-serif;
+    /* user-select: none; */
+}
+
+/* body {
+    background-color: black;
+    color: white;
+} */
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* FOR HANDLING LABELS */
+.typeLabel {
+    transition: 0.7s all ease-in;
+}
+
+.typeLabel.one {
+    color: #41b3fd;
+}
+
+.typeLabel.two {
+    color: #ba77d9;
+}
+
+.typeLabel.three {
+    color: #77d9b6;
+}
+
+.typeLabel.four {
+    color: #b23a3a;
 }

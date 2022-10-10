@@ -11,6 +11,7 @@
         "react-dom": "^18.2.0",
         "react-router-dom": "^6.4.1",
         "react-scripts": "5.0.1",
+        "react-type-animation": "^2.1.1",
         "styled-components": "^5.3.5",
         "typescript": "^4.8.3"
     },
@@ -23,11 +24,6 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/spotdot-india/spotdot-landing-page.git"
-    },
-    "eslintConfig": {
-        "extends": [
-            "react-app"
-        ]
     },
     "browserslist": {
         "production": [
@@ -42,6 +38,7 @@
         ]
     },
     "devDependencies": {
+        "@types/react-type-animation": "^1.1.1",
         "@types/styled-components": "^5.1.26"
     }
 }

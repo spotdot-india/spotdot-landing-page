@@ -9,9 +9,9 @@ const Header = () => {
     return (
         <Styled.HeaderWpr>
             <Styled.HeaderCnt>
-                <Styled.NavLink to='/'>
+                <Link to='/spotone'>
                     <Styled.Logo src={Logo} />
-                </Styled.NavLink>
+                </Link>
                 <Styled.NavList>
                     <Link to='/spotone'>
                         <Styled.NavLinkLogo src={SpotoneLogo} />
